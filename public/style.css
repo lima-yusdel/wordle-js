@@ -224,7 +224,7 @@ h1 {
 
         /* Style the partial cells in yellow */
         .input-grid td.partial {
-            background-color: #FFFF00; /* Yellow */
+            background-color: #ffd800; /* Yellow */
         }
 
         /* Style the incorrect cells in red */
